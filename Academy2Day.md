@@ -24,8 +24,8 @@ The campers were broken up into groups of 3 or 4 students and worked on the acti
 3. Giving the students time to play video games, and physical games outside worked pretty well - the large helped with organization and transitions
 
 4. The flip book animation proved somewhat difficult, but the students though it was ineteresting. Two ways to improve it would be
-++ Provide actual flipbooks instead of post-it notes
-++ Provide a short, specific animation for them make before asking them to make their own
++ Provide actual flipbooks instead of post-it notes
++ Provide a short, specific animation for them make before asking them to make their own
    
 5. Early arriving students were entertained by the camp staff playing the game Video Game Tycoon on the big screen and taking suggestions for what actions to take from the campers.
 
