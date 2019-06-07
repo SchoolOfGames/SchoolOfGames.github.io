@@ -1,4 +1,4 @@
-# SchoolOfGames.github.io
+# School of Games
 Curricular Materials for Camps and Classes on Video Game Development
 
-[Presentation on Video Game Genres](https://prezi.com/5zkdek-a1d4j/video-game-genres/?utm_campaign=share&utm_medium=copy)
+[Material from 2-Day Camp for 5th graders](/Academy2Day.html)
