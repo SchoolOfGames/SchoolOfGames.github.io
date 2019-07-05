@@ -1,4 +1,6 @@
 # School of Games
-Curricular Materials for Camps and Classes on Video Game Development
+A Collection of Materials for Computer Science Education   
 
-[Material from 2-Day Camp for 5th graders](/Academy2Day.html)
++ [Workshop: Summer Professional Development in VR/AR for Teachers of Computer Science](/DPIWorkshop.html)
+
++ [Material from 2-Day Game Development Camp for 5th graders](/Academy2Day.html)
