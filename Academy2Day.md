@@ -4,9 +4,9 @@ The following materials were used teaching a 2 day camp on video games and video
 The camp ran on January 3 & 4, 2019 and was attended by approximately 20 students from grades 4 through 6.
 
 + [Agenda and lesson plan](https://github.com/SchoolOfGames/TwoDayCamp/raw/master/Public%20Camp%20Agenda.pdf)
-+ [Winnable Games worksheet](https://github.com/SchoolOfGames/TwoDayCamp/raw/master/Winnable%20Games.pdf)
++ [Winnable games worksheet](https://github.com/SchoolOfGames/TwoDayCamp/raw/master/Winnable%20Games.pdf)
 + [Animation activity slides](https://github.com/SchoolOfGames/TwoDayCamp/raw/master/2D%20Video%20Game%20Animation.pptx)
-+ [Presentation on Video Game Genres](https://prezi.com/5zkdek-a1d4j/video-game-genres/?utm_campaign=share&utm_medium=copy)
++ [Presentation on video game genres](https://prezi.com/5zkdek-a1d4j/video-game-genres/?utm_campaign=share&utm_medium=copy)
 
 The repository for the materials is at [https://github.com/SchoolOfGames/TwoDayCamp](https://github.com/SchoolOfGames/TwoDayCamp). The material is free to use, and we would happily accept improvements and additions.
 
