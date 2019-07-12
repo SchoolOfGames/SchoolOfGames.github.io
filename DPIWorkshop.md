@@ -32,7 +32,6 @@ Virtual and augmented reality (VR/AR) application development offers an engaging
 | Noon-1:00     | **Lunch**       |              |  
 |-----------------+------------+-----------------|
 | 1:00-2:00     | Go Kart Tutorial            | Available through Unity |             
-|         |            |                         |  
 |-----------------+------------+-----------------|
 |2:00-2:10    |  **BREAK**    |     |
 |-----------------+------------+-----------------|
