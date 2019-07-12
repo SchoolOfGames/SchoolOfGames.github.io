@@ -27,7 +27,7 @@ Virtual and augmented reality (VR/AR) application development offers an engaging
 |10:40 -11:10    |  Teaching CS with VR/AR     |                 |                
 |-----------------+------------+-----------------|
 |11:10-Noon       | Install Unity |  [https://unity.com/](https://unity.com/)            |
-|                 |               |  [Overly detailed visual instructions]()            |
+|                 |               |  [Overly detailed visual instructions](/assets/unity_install.pdf)            |
 |-----------------+------------+-----------------|
 | Noon-1:00     | **Lunch**       |              |  
 |-----------------+------------+-----------------|
