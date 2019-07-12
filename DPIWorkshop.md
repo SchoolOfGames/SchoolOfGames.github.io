@@ -49,7 +49,8 @@ Virtual and augmented reality (VR/AR) application development offers an engaging
 |-----------------|:-----------|:---------------|
 | 9:00-9:30       |Breakfast       |     | 
 |-----------------+------------+-----------------|
-| 9:30-10:00     | VR UX Design      |                 |                            
+| 9:30-10:00     | Coding and Unity     |   [For Programmers](https://unity3d.com/programming-in-unity)              | 
+|                |                      |   [For Beginners](https://learn.unity.com/tutorial/coding-in-unity-for-the-absolute-beginner#)
 |-----------------+------------+-----------------|
 |10:00-10:30     |  Installing Google VR SDK     | [Android Tutorial](https://developers.google.com/vr/develop/unity/get-started-android)                |  
 |-----------------+------------+-----------------|
@@ -65,7 +66,8 @@ Virtual and augmented reality (VR/AR) application development offers an engaging
 |-----------------+------------+-----------------|
 |2:00-2:10    |  **BREAK**    |     |
 |-----------------+------------+-----------------|
-|2:10-3:00    |  VR Best Practices    |                 |                
+|2:10-3:00    |  VR UX Design    |                 | 
+|             |  Demo Consumer HMDs    |                |                
 |-----------------+------------+-----------------|
 |3:00-4:00      | Show and Tell |              |
 |               | Discussion    |              |
@@ -73,6 +75,31 @@ Virtual and augmented reality (VR/AR) application development offers an engaging
 
 **Day 3**
 
+|-----------------+------------+----------------|
+| Time            |Topic       |      Resources |
+|-----------------|:-----------|:---------------|
+| 9:00-9:30       |Breakfast       |     | 
+|-----------------+------------+-----------------|
+| 9:30-10:00     | Intro to AR  |                 |                            
+|-----------------+------------+-----------------|
+|10:00-10:30     | AR in Unity  |  [Vuforia Tutorial](https://library.vuforia.com/articles/Training/getting-started-with-vuforia-in-unity.html)               |  
+|-----------------+------------+-----------------|
+|10:30 -11:40     |  **BREAK**    |     |
+|-----------------+------------+-----------------|
+|10:40 -11:10    |  AR in Unity   |                 |                
+|-----------------+------------+-----------------|
+|11:10-Noon       | Extend the Demo |              |
+|-----------------+------------+-----------------|
+| Noon-1:00     | **Lunch**        |                 |                             
+|-----------------+------------+-----------------|
+|1:00-2:00    |  Discussion: Teaching CS with AR/VR  |          |  
+|-----------------+------------+-----------------|
+|2:00-2:10    |  **BREAK**    |     |
+|-----------------+------------+-----------------|
+|2:10-3:00    |  Discussion: Teaching CS with AR/VR    |                 |                
+|-----------------+------------+-----------------|
+|3:00-4:00      | Feedback Survey    |              |
+|-----------------+------------+-----------------|
 
 ## Staff
 
