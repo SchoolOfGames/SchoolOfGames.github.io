@@ -104,6 +104,7 @@ Virtual and augmented reality (VR/AR) application development offers an engaging
 ## Staff
 
 + Luc Paquette (University of Illinois at Urbana-Champaign, College of Education)
++ Raya Hegeman-Davis (University of Illinois at Urbana-Champaign, College of Education)
 + Eric Shaffer (University of Illinois at Urbana-Champaign, Computer Science)
 + Craig Zilles (University of Illinois at Urbana-Champaign, Computer Science)
-+ Liia Buteler (University of Illinois at Urbana-Champaign, Computer Science)
++ Liia Butler (University of Illinois at Urbana-Champaign, Computer Science)
