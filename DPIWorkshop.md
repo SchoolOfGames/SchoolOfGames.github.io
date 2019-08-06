@@ -20,22 +20,23 @@ Virtual and augmented reality (VR/AR) application development offers an engaging
 |-----------------+------------+-----------------|
 | 9:30-9:40     | Welcome           |                 |                            
 |-----------------+------------+-----------------|
-|9:40 -10:30     |  Intro to VR     |                 |  
+|9:40 -10:30     |     |                 |  
 |-----------------+------------+-----------------|
 |10:30 -11:40     |  **BREAK**    |     |
 |-----------------+------------+-----------------|
-|10:40 -11:10    |  Teaching CS with VR/AR     |                 |                
+|10:40 -11:10    |      |                 |                
 |-----------------+------------+-----------------|
 |11:10-Noon       | Install Unity |  [https://unity.com/](https://unity.com/)            |
-|                 |               |  [Overly detailed visual instructions](/assets/unity_install.pdf)            |
+|                 |               |  [Overly detailed visual instructions](/assets/unity_install.pdf)            |            
+|                 |  Go Kart Tutorial            | Available through Unity |    
 |-----------------+------------+-----------------|
 | Noon-1:00     | **Lunch**       |              |  
 |-----------------+------------+-----------------|
-| 1:00-2:00     | Go Kart Tutorial            | Available through Unity |             
+| 1:00-2:00     | Roll-a-Ball Tutorial            |  |             
 |-----------------+------------+-----------------|
 |2:00-2:10    |  **BREAK**    |     |
 |-----------------+------------+-----------------|
-|2:10-3:00    |  Extend the Game    |  [Karting Mods](https://learn.unity.com/project/karting-template)               |                
+|2:10-3:00    |  Extend the Game    |             |                
 |-----------------+------------+-----------------|
 |3:00-4:00      | Show and Tell |              |
 |               | Discussion    |              |
