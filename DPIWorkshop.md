@@ -26,14 +26,14 @@ Virtual and augmented reality (VR/AR) application development offers an engaging
 |-----------------+------------+-----------------|
 |10:30 -11:40     |  **BREAK**    |     |
 |-----------------+------------+-----------------|
-|10:40 -11:10    | Go Kart Tutorial        | Available through Unity |   
-|                | Go Kart Mods (Optional) |                         |
+|10:40 -11:10    | Go Kart Tutorial        | Available through Unity Dev Enviornment |   
+|                | Go Kart Mods (Optional) |[Karting Micro-Game Mods](https://learn.unity.com/project/karting-template?courseId=5c59cf22edbc2a001f59aa5d)                         |
 |-----------------+------------+-----------------|
 |11:10-Noon       | Exploring Unity | []()     |
 |-----------------+------------+-----------------|
 | Noon-1:00     | **Lunch**       |              |  
 |-----------------+------------+-----------------|
-| 1:00-2:00     | Roll-a-Ball Tutorial            | []() |   
+| 1:00-2:00     | Roll-a-Ball Tutorial            | [Roll-a-Ball](https://learn.unity.com/project/roll-a-ball-tutorial) |   
 |               |                                 | []()  |
 |-----------------+------------+-----------------|
 |2:00-2:10    |  **BREAK**    |     |
