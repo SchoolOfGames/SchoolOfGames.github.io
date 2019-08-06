@@ -10,6 +10,7 @@ Virtual and augmented reality (VR/AR) application development offers an engaging
 ## Where: Discovery Partners Institute, 200 S. Wacker Dr., Chicago
 
 ## Agenda
+#### Subject to change ####
 **Day 1**
 
 |-----------------+------------+----------------|
@@ -18,21 +19,22 @@ Virtual and augmented reality (VR/AR) application development offers an engaging
 | 9:00-9:30       |Registration|     | 
 |      |Breakfast       |     | 
 |-----------------+------------+-----------------|
-| 9:30-9:40     | Welcome           |                 |                            
+| 9:30-9:40     | Welcome           | []()                |                            
 |-----------------+------------+-----------------|
-|9:40 -10:30     |     |                 |  
+|9:40 -10:30     | Install Unity |  [https://unity.com/](https://unity.com/)            |
+|                 |               |  [Overly detailed visual instructions](/assets/unity_install.pdf)            |      
 |-----------------+------------+-----------------|
 |10:30 -11:40     |  **BREAK**    |     |
 |-----------------+------------+-----------------|
-|10:40 -11:10    |      |                 |                
+|10:40 -11:10    | Go Kart Tutorial        | Available through Unity |   
+|                | Go Kart Mods (Optional) |                         |
 |-----------------+------------+-----------------|
-|11:10-Noon       | Install Unity |  [https://unity.com/](https://unity.com/)            |
-|                 |               |  [Overly detailed visual instructions](/assets/unity_install.pdf)            |            
-|                 |  Go Kart Tutorial            | Available through Unity |    
+|11:10-Noon       | Exploring Unity | []()     |
 |-----------------+------------+-----------------|
 | Noon-1:00     | **Lunch**       |              |  
 |-----------------+------------+-----------------|
-| 1:00-2:00     | Roll-a-Ball Tutorial            |  |             
+| 1:00-2:00     | Roll-a-Ball Tutorial            | []() |   
+|               |                                 | []()  |
 |-----------------+------------+-----------------|
 |2:00-2:10    |  **BREAK**    |     |
 |-----------------+------------+-----------------|
