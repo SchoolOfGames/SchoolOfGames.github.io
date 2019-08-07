@@ -54,7 +54,7 @@ Virtual and augmented reality (VR/AR) application development offers an engaging
 |-----------------+------------+-----------------|
 |10:00-10:30     |  Installing Google VR SDK     | [Android Tutorial](https://developers.google.com/vr/develop/unity/get-started-android)                |  
 |-----------------+------------+-----------------|
-|10:30 -11:40     |  **BREAK**    |     |
+|10:30 -10:40     |  **BREAK**    |     |
 |-----------------+------------+-----------------|
 |10:40 -11:10    |  Cardboard Demo   |                 |                
 |-----------------+------------+-----------------|
@@ -82,7 +82,7 @@ Virtual and augmented reality (VR/AR) application development offers an engaging
 |-----------------+------------+-----------------|
 |10:00-10:30     | AR in Unity  |  [Vuforia Tutorial](https://library.vuforia.com/articles/Training/getting-started-with-vuforia-in-unity.html)               |  
 |-----------------+------------+-----------------|
-|10:30 -11:40     |  **BREAK**    |     |
+|10:30 -10:40     |  **BREAK**    |     |
 |-----------------+------------+-----------------|
 |10:40 -11:10    |  AR in Unity   |                 |                
 |-----------------+------------+-----------------|
