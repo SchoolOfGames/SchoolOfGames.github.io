@@ -53,6 +53,7 @@ Virtual and augmented reality (VR/AR) application development offers an engaging
 | 9:30-10:00     | Intro to VR Tech||
 |-----------------+------------+-----------------|
 |10:00-10:30     |  Installing Google VR SDK     | [Android Tutorial](https://developers.google.com/vr/develop/unity/get-started-android)                |  
+|                 |                              | [IOS Tutorial](https://developers.google.com/vr/develop/unity/get-started-ios)                |                                       
 |-----------------+------------+-----------------|
 |10:30 -10:40     |  **BREAK**    |     |
 |-----------------+------------+-----------------|
@@ -66,7 +67,10 @@ Virtual and augmented reality (VR/AR) application development offers an engaging
 |-----------------+------------+-----------------|
 |2:00-2:10    |  **BREAK**    |     |
 |-----------------+------------+-----------------|
-|2:10-4:00   | Demo HMDs    |                |                
+|2:10-3:00   | Creating a VR Project     | [Slides](https://github.com/SchoolOfGames/SchoolOfGames.github.io/raw/master/Creating%20a%20VR%20project.pptx)    |
+|-----------------+------------+-----------------|
+|
+|3:00-4:00   | Demo HMDs    |                |                
 |               | Show and Tell |              |
 |               | Discussion    |              |
 |-----------------+------------+-----------------|
