@@ -24,7 +24,7 @@ Virtual and augmented reality (VR/AR) application development offers an engaging
 |10:00 -10:30     | Install Unity |  [https://unity.com/](https://unity.com/)            |
 |                 |               |  [Overly detailed visual instructions](/assets/unity_install.pdf)            |      
 |-----------------+------------+-----------------|
-|10:30 -11:40     |  **BREAK**    |     |
+|10:30 -10:40     |  **BREAK**    |     |
 |-----------------+------------+-----------------|
 |10:40 -11:10    | Go Kart Tutorial        | Available through Unity Dev Enviornment |  
 |11:10-Noon       | Exploring Unity | [Slides](https://github.com/SchoolOfGames/SchoolOfGames.github.io/raw/master/Exploring%20Unity.pptx)     |
