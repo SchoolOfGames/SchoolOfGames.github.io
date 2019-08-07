@@ -19,17 +19,16 @@ Virtual and augmented reality (VR/AR) application development offers an engaging
 | 9:00-9:30       |Registration|     | 
 |      |Breakfast       |     | 
 |-----------------+------------+-----------------|
-| 9:30-9:40     | Welcome           | [Slides](https://github.com/SchoolOfGames/SchoolOfGames.github.io/raw/master/Welcome.pptx)                |                            
+| 9:30-10:00     | Welcome           | [Slides](https://github.com/SchoolOfGames/SchoolOfGames.github.io/raw/master/Welcome.pptx)                |                            
 |-----------------+------------+-----------------|
-|9:40 -10:30     | Install Unity |  [https://unity.com/](https://unity.com/)            |
+|10:00 -10:30     | Install Unity |  [https://unity.com/](https://unity.com/)            |
 |                 |               |  [Overly detailed visual instructions](/assets/unity_install.pdf)            |      
 |-----------------+------------+-----------------|
 |10:30 -11:40     |  **BREAK**    |     |
 |-----------------+------------+-----------------|
-|10:40 -11:10    | Go Kart Tutorial        | Available through Unity Dev Enviornment |   
-|                | Go Kart Mods (Optional) |[Karting Micro-Game Mods](https://learn.unity.com/project/karting-template?courseId=5c59cf22edbc2a001f59aa5d)                         |
-|-----------------+------------+-----------------|
+|10:40 -11:10    | Go Kart Tutorial        | Available through Unity Dev Enviornment |  
 |11:10-Noon       | Exploring Unity | [Slides](https://github.com/SchoolOfGames/SchoolOfGames.github.io/raw/master/Exploring%20Unity.pptx)     |
+|                | Go Kart Mods (Optional) |[Karting Micro-Game Mods](https://learn.unity.com/project/karting-template?courseId=5c59cf22edbc2a001f59aa5d)                         |
 |-----------------+------------+-----------------|
 | Noon-1:00     | **Lunch**       |              |  
 |-----------------+------------+-----------------|
@@ -42,7 +41,6 @@ Virtual and augmented reality (VR/AR) application development offers an engaging
 |-----------------+------------+-----------------|
 |3:00-4:00      | Show and Tell |              |
 |               | Discussion    |              |
-|               | Questions for Day 2 ||
 |-----------------+------------+-----------------|
 
 **Day 2**
@@ -103,6 +101,9 @@ Virtual and augmented reality (VR/AR) application development offers an engaging
 |-----------------+------------+-----------------|
 |3:00-4:00      | Feedback Survey    |              |
 |-----------------+------------+-----------------|
+
+## Resources
++ [Unity High School Course](https://learn.unity.com/course/create-with-code)
 
 ## Staff
 
