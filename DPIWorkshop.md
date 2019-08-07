@@ -49,8 +49,8 @@ Virtual and augmented reality (VR/AR) application development offers an engaging
 | Time            |Topic       |      Resources |
 |-----------------|:-----------|:---------------|
 | 9:00-9:30       |Breakfast       |     | 
-|-----------------+------------+-----------------|
-| 9:30-10:00     | Intro to VR Tech||
+|-----------------+------------+-----------------| 
+| 9:30-10:00     | Intro to VR Tech|[Slides]()|
 |-----------------+------------+-----------------|
 |10:00-10:30     |  Installing Google VR SDK     | [Android Tutorial](https://developers.google.com/vr/develop/unity/get-started-android)                |  
 |                 |                              | [IOS Tutorial](https://developers.google.com/vr/develop/unity/get-started-ios)                |                                       
