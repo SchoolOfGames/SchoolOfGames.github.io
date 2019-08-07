@@ -50,8 +50,7 @@ Virtual and augmented reality (VR/AR) application development offers an engaging
 |-----------------|:-----------|:---------------|
 | 9:00-9:30       |Breakfast       |     | 
 |-----------------+------------+-----------------|
-| 9:30-10:00     | Coding and Unity     |   [For Programmers](https://unity3d.com/programming-in-unity)              | 
-|                |                      |   [For Beginners](https://learn.unity.com/tutorial/coding-in-unity-for-the-absolute-beginner#)
+| 9:30-10:00     | Intro to VR Tech||
 |-----------------+------------+-----------------|
 |10:00-10:30     |  Installing Google VR SDK     | [Android Tutorial](https://developers.google.com/vr/develop/unity/get-started-android)                |  
 |-----------------+------------+-----------------|
@@ -67,10 +66,8 @@ Virtual and augmented reality (VR/AR) application development offers an engaging
 |-----------------+------------+-----------------|
 |2:00-2:10    |  **BREAK**    |     |
 |-----------------+------------+-----------------|
-|2:10-3:00    |  VR UX Design    |                 | 
-|             |  Demo Consumer HMDs    |                |                
-|-----------------+------------+-----------------|
-|3:00-4:00      | Show and Tell |              |
+|2:10-4:00   | Demo HMDs    |                |                
+|               | Show and Tell |              |
 |               | Discussion    |              |
 |-----------------+------------+-----------------|
 
@@ -104,6 +101,8 @@ Virtual and augmented reality (VR/AR) application development offers an engaging
 
 ## Resources
 + [Unity High School Course](https://learn.unity.com/course/create-with-code)
++ [Unity for Experienced  Programmers](https://unity3d.com/programming-in-unity)              | 
++ [Unity For Beginners](https://learn.unity.com/tutorial/coding-in-unity-for-the-absolute-beginner#)
 
 ## Staff
 
