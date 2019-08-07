@@ -57,7 +57,7 @@ Virtual and augmented reality (VR/AR) application development offers an engaging
 |-----------------+------------+-----------------|
 |10:30 -10:40     |  **BREAK**    |     |
 |-----------------+------------+-----------------|
-|10:40 -11:10    |  Cardboard Demo   |                 |                
+|10:40 -11:10    |  Cardboard Demo   | [Slides](https://github.com/SchoolOfGames/SchoolOfGames.github.io/raw/master/Exploring%20VR.pptx)                 |                
 |-----------------+------------+-----------------|
 |11:10-Noon       | Extend the Demo | [Slides](https://github.com/SchoolOfGames/SchoolOfGames.github.io/raw/master/assets/Extending%20VR%20Demo.pptx)             |
 |-----------------+------------+-----------------|
