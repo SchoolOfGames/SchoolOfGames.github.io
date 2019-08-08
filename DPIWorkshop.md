@@ -53,7 +53,8 @@ Virtual and augmented reality (VR/AR) application development offers an engaging
 | 9:30-10:00     | Intro to VR Tech|[Slides](https://github.com/SchoolOfGames/SchoolOfGames.github.io/raw/master/VRIntro.pptx)|
 |-----------------+------------+-----------------|
 |10:00-10:30     |  Installing Google VR SDK     | [Android Tutorial](https://developers.google.com/vr/develop/unity/get-started-android)                |  
-|                 |                              | [IOS Tutorial](https://developers.google.com/vr/develop/unity/get-started-ios)                |                                       
+|                 |                              | [IOS Tutorial](https://developers.google.com/vr/develop/unity/get-started-ios)                |
+|                 |                              | [Testing on IOS](https://www.twilio.com/blog/2018/07/how-to-test-your-ios-application-on-a-real-device.html)                |                                       
 |-----------------+------------+-----------------|
 |10:30 -10:40     |  **BREAK**    |     |
 |-----------------+------------+-----------------|
