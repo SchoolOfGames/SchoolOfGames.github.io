@@ -83,7 +83,7 @@ Virtual and augmented reality (VR/AR) application development offers an engaging
 |-----------------|:-----------|:---------------|
 | 9:00-9:30       |Breakfast       |     | 
 |-----------------+------------+-----------------|
-| 9:30-10:00     | Intro to AR  |                 |                            
+| 9:30-10:00     | Intro to AR  |   [Slides](https://github.com/SchoolOfGames/SchoolOfGames.github.io/raw/master/assets/ARIntro.pptx)              |                            
 |-----------------+------------+-----------------|
 |10:00-10:30     | AR in Unity  |  [Vuforia Tutorial](https://library.vuforia.com/articles/Training/getting-started-with-vuforia-in-unity.html)               |
 |                 |             | [Slides](https://github.com/SchoolOfGames/SchoolOfGames.github.io/raw/master/Introduction%20to%20Vuforia.pptx)                |  
