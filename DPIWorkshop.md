@@ -85,17 +85,20 @@ Virtual and augmented reality (VR/AR) application development offers an engaging
 |-----------------+------------+-----------------|
 | 9:30-10:00     | Intro to AR  |                 |                            
 |-----------------+------------+-----------------|
-|10:00-10:30     | AR in Unity  |  [Vuforia Tutorial](https://library.vuforia.com/articles/Training/getting-started-with-vuforia-in-unity.html)               |  
+|10:00-10:30     | AR in Unity  |  [Vuforia Tutorial](https://library.vuforia.com/articles/Training/getting-started-with-vuforia-in-unity.html)               |
+|                 |             | [Slides](https://github.com/SchoolOfGames/SchoolOfGames.github.io/raw/master/Introduction%20to%20Vuforia.pptx)                |  
 |-----------------+------------+-----------------|
 |10:30 -10:40     |  **BREAK**    |     |
 |-----------------+------------+-----------------|
 |10:40 -11:10    |  AR in Unity   |                 |                
 |-----------------+------------+-----------------|
-|11:10-Noon       | Extend the Demo |              |
+|11:10-Noon       | Using custom image targets | [Slides](https://github.com/SchoolOfGames/SchoolOfGames.github.io/raw/master/Vuforia%20-%20custom%20image%20targets.pptx)             |
+|                 |             | [QR Code image](https://github.com/SchoolOfGames/SchoolOfGames.github.io/raw/master/QR-Code.jpg)                |  
+|                 |             | [Sunflower image](https://github.com/SchoolOfGames/SchoolOfGames.github.io/raw/master/Sunflower.jpg)                |  
 |-----------------+------------+-----------------|
 | Noon-1:00     | **Lunch**        |                 |                             
 |-----------------+------------+-----------------|
-|1:00-2:00    |  Discussion: Teaching CS with AR/VR  |          |  
+|1:00-2:00    |  Discussion: Teaching CS with AR/VR  |  [Slides](https://github.com/SchoolOfGames/SchoolOfGames.github.io/raw/master/Teaching%20and%20VR-AR.pptx)        |  
 |-----------------+------------+-----------------|
 |2:00-2:10    |  **BREAK**    |     |
 |-----------------+------------+-----------------|
