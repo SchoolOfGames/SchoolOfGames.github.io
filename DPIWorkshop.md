@@ -109,7 +109,7 @@ Virtual and augmented reality (VR/AR) application development offers an engaging
 
 ## Resources
 + [Unity High School Course](https://learn.unity.com/course/create-with-code)
-+ [Unity for Experienced  Programmers](https://unity3d.com/programming-in-unity)              | 
++ [Unity for Experienced  Programmers](https://unity3d.com/programming-in-unity)              
 + [Unity For Beginners](https://learn.unity.com/tutorial/coding-in-unity-for-the-absolute-beginner#)
 
 ## Staff
