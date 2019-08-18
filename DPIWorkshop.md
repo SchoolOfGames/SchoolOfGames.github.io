@@ -53,6 +53,7 @@ Virtual and augmented reality (VR/AR) application development offers an engaging
 | 9:30-10:00     | Intro to VR Tech|[Slides](https://github.com/SchoolOfGames/SchoolOfGames.github.io/raw/master/VRIntro.pptx)|
 |-----------------+------------+-----------------|
 |10:00-10:30     |  Installing Google VR SDK     | [Android Tutorial](https://developers.google.com/vr/develop/unity/get-started-android)                |  
+|                 |                              | [Android Studio](https://developer.android.com/studio)                |
 |                 |                              | [IOS Tutorial](https://developers.google.com/vr/develop/unity/get-started-ios)                |
 |                 |                              | [Testing on IOS](https://www.twilio.com/blog/2018/07/how-to-test-your-ios-application-on-a-real-device.html)                |                                       
 |-----------------+------------+-----------------|
@@ -87,6 +88,7 @@ Virtual and augmented reality (VR/AR) application development offers an engaging
 |-----------------+------------+-----------------|
 |10:00-10:30     | AR in Unity  |  [Vuforia Tutorial](https://library.vuforia.com/articles/Training/getting-started-with-vuforia-in-unity.html)               |
 |                 |             | [Slides](https://github.com/SchoolOfGames/SchoolOfGames.github.io/raw/master/Introduction%20to%20Vuforia.pptx)                |  
+|                 |             | [Vuforia target images](https://github.com/SchoolOfGames/SchoolOfGames.github.io/raw/master/Vuforia_target_images.pdf)                |  
 |-----------------+------------+-----------------|
 |10:30 -10:40     |  **BREAK**    |     |
 |-----------------+------------+-----------------|
