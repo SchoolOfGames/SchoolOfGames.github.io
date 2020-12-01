@@ -21,9 +21,9 @@ The campers were broken up into groups of 3 or 4 students and worked on the acti
 
 2. The Winnable Games activity probably was the activity the students enjoyed the most.
 
-3. Giving the students time to play video games, and physical games outside worked pretty well - the large helped with organization and transitions
+3. Giving the students time to play video games, and physical games outside worked pretty well.
 
-4. The flip book animation proved somewhat difficult, but the students though it was ineteresting. Two ways to improve it would be
+4. The flip book animation proved somewhat difficult, but the students thought it was ineteresting. Two ways to improve it would be
 + Provide actual flipbooks instead of post-it notes
 + Provide a short, specific animation for them make before asking them to make their own
    
